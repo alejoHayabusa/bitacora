@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+  html {
+    font-size: 17px; } }
+html {
+  font-size: 15px; }
+
+.bg-primary {
+  background-color: #00A5D9 !important; }
+
+.bg-secondary {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #57C0EB), to(#F1F9FC)) !important;
+  background: linear-gradient(#57C0EB 50%, #F1F9FC) !important; }
+
+.text-info {
+  color: #3533cf !important; }
+
+.footer {
+  position: relative;
+  top: -3px; }
+
+/*# sourceMappingURL=extra.css.map */
